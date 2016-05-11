@@ -11,4 +11,8 @@ baabbababababba
 
 
 
+<<<<<<< HEAD
 winwinwinwiwinxin
+=======
+winwinwinwiwinxin
+>>>>>>> feature1
